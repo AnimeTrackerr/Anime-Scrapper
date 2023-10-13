@@ -1,0 +1,172 @@
+{
+  "id": 1,
+  "title": { "english": "Cowboy Bebop", "romaji": "Cowboy Bebop" },
+  "synonyms": [
+    "\uce74\uc6b0\ubcf4\uc774 \ube44\ubc25",
+    "\u05e7\u05d0\u05d5\u05d1\u05d5\u05d9 \u05d1\u05d9\u05d1\u05d5\u05e4",
+    "\u0e04\u0e32\u0e27\u0e1a\u0e2d\u0e22 \u0e1a\u0e35\u0e1a\u0e4a\u0e2d\u0e1b",
+    "\u041a\u043e\u0432\u0431\u043e\u0439 \u0411\u0438\u0431\u043e\u043f",
+    "\u039a\u03b1\u03bf\u03c5\u03bc\u03c0\u03cc\u03b7\u03b4\u03b5\u03c2 \u03c4\u03bf\u03c5 \u0394\u03b9\u03b1\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2"
+  ],
+  "type": "ANIME",
+  "episodes": 26,
+  "meanScoreAni": 86,
+  "genres": ["Action", "Adventure", "Drama", "Sci-Fi"],
+  "tags": [
+    { "name": "Space" },
+    { "name": "Crime" },
+    { "name": "Episodic" },
+    { "name": "Ensemble Cast" },
+    { "name": "Primarily Adult Cast" },
+    { "name": "Noir" },
+    { "name": "Tragedy" },
+    { "name": "Guns" },
+    { "name": "Male Protagonist" },
+    { "name": "Cyberpunk" },
+    { "name": "Tomboy" },
+    { "name": "Philosophy" },
+    { "name": "Martial Arts" },
+    { "name": "Anti-Hero" },
+    { "name": "Terrorism" },
+    { "name": "Amnesia" },
+    { "name": "Travel" },
+    { "name": "Cyborg" },
+    { "name": "Gambling" },
+    { "name": "Yakuza" },
+    { "name": "Drugs" },
+    { "name": "Cult" },
+    { "name": "Tanned Skin" },
+    { "name": "Police" },
+    { "name": "Gender Bending" }
+  ],
+  "status": "FINISHED",
+  "isAdult": false,
+  "description": "Enter a world in the distant future, where Bounty Hunters roam the solar system. Spike and Jet, bounty hunting partners, set out on journeys in an ever struggling effort to win bounty rewards to survive.<br><br>\nWhile traveling, they meet up with other very interesting people. Could Faye, the beautiful and ridiculously poor gambler, Edward, the computer genius, and Ein, the engineered dog be a good addition to the group?",
+  "season": "SPRING",
+  "startDate": { "year": 1998, "month": 4, "day": 3 },
+  "endDate": { "year": 1999, "month": 4, "day": 24 },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1-OquNCNB6srGe.jpg",
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1-CXtrrkMpJ8Zq.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1-CXtrrkMpJ8Zq.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1-CXtrrkMpJ8Zq.png",
+    "color": "#f1785d"
+  },
+  "characters": [
+    {
+      "role": "MAIN",
+      "voiceActors": [
+        {
+          "name": "Kouichi Yamadera",
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95011-2RfLzncNyvbR.png"
+        }
+      ],
+      "name": "Spike Spiegel",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/medium/b1-ChxaldmieFlQ.png"
+    },
+    {
+      "role": "MAIN",
+      "voiceActors": [
+        {
+          "name": "Unshou Ishizuka",
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95357-umndcceko65h.png"
+        }
+      ],
+      "name": "Jet Black",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/medium/b3-JjH9Si9UM1NZ.png"
+    },
+    {
+      "role": "MAIN",
+      "voiceActors": [
+        {
+          "name": "Megumi Hayashibara",
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95014-VqxNuufY94V3.png"
+        }
+      ],
+      "name": "Faye Valentine",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/medium/b2-0Iszg6Izgt4p.png"
+    },
+    {
+      "role": "MAIN",
+      "voiceActors": [
+        {
+          "name": "Aoi Tada",
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95658-paHKYOWkhoOd.png"
+        }
+      ],
+      "name": "Edward Wong Hau Pepelu Tivrusky IV",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/medium/b16-80wd87nl1Rue.png"
+    },
+    {
+      "role": "SUPPORTING",
+      "voiceActors": [
+        {
+          "name": "Kenji Utsumi",
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95138-0iK7jnkuJb6o.png"
+        }
+      ],
+      "name": "Appledelhi Siniz Hesap L\u00fctfen",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/medium/b13249-cRGVNX7B9RRY.png"
+    },
+    {
+      "role": "SUPPORTING",
+      "voiceActors": [
+        {
+          "name": "Banjou Ginga",
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95330-PHDm9uDhKAsT.png"
+        }
+      ],
+      "name": "Tongpu",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/medium/b29313-F2xCYvnsemie.png"
+    },
+    {
+      "role": "SUPPORTING",
+      "voiceActors": [
+        {
+          "name": "Yoku Shioya",
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96506-toS3CQBXCrnR.png"
+        }
+      ],
+      "name": "Miles",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/medium/b37186-ajy73hedX5lZ.png"
+    },
+    {
+      "role": "SUPPORTING",
+      "voiceActors": [
+        {
+          "name": "Kousei Hirota",
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102321-RGZyzVH6DAhs.png"
+        }
+      ],
+      "name": "Udai Taxim",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/medium/b23611-mseTShkrE2H3.png"
+    },
+    {
+      "role": "SUPPORTING",
+      "voiceActors": [
+        {
+          "name": "Ruri Asano",
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/medium/1746.jpg"
+        }
+      ],
+      "name": "Mago",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/medium/b214420-89ALZSyOUmob.png"
+    },
+    {
+      "role": "SUPPORTING",
+      "voiceActors": [
+        {
+          "name": "Hiroshi Naka",
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96174-xESRSYS5NSwN.jpg"
+        }
+      ],
+      "name": "Pinryuu",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+    }
+  ],
+  "studios": [
+    { "name": "Sunrise" },
+    { "name": "Bandai Visual" },
+    { "name": "Bandai Entertainment" }
+  ]
+}
